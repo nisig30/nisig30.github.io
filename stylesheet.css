@@ -53,16 +53,13 @@ html {
 }
 
 body {
-    background-color: #fff; /* 背景色 */
-    background-size: cover;               /* 全画面 */
-    background-attachment: fixed;         /* 固定 */
-    background-position: center center;   /* 縦横中央 */
+    background-color: #fff;
     padding: 30px 30px 30px;
     max-width: 700px;
     margin: 20px auto;
     box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.18);
     border-radius: 3px;
-    position: relative;   
+    position: relative;
 }
 
 img {
